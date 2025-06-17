@@ -139,6 +139,7 @@ Q. Synchronization
 
     /*
     Volatile Keyword
+    1.
     1. Volatile keyword not utilize cach memory.
     2. Volatile keyword is used to modify one value of a variable by different thread.
     3. It is also used to make class thread safe.
