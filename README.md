@@ -1,4 +1,4 @@
-Here is a sample README.md file for your Spring Boot + Kafka project that consumes a custom InterviewEvent object. This is ready to be added to your GitHub repository:
+Spring Boot + Kafka project that consumes a custom InterviewEvent object. This is ready to be added to your GitHub repository:
 
 ⸻
 
